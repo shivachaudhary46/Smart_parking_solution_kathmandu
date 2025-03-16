@@ -21,19 +21,6 @@ A modern web application for finding and managing parking spaces in your area. T
 - JavaScript
 - Google Maps API (to be integrated)
 
-## Project Structure
-
-```
-smart-parking/
-├── index.html
-├── styles/
-│   └── main.css
-├── js/
-│   └── app.js
-└── assets/
-    └── images/
-```
-
 ## Development
 
 This project is under active development. Future updates will include:
