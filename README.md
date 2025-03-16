@@ -46,16 +46,16 @@ Creating a machine learning model for solving parking problems of Nepal requires
 
 To teach your model appropriately, consider the following datasets that can be accessed publicly: 
 
-* PKLot Dataset(***PAPERSWITHCODE.COM***)
+* PKLot Dataset(***PAPERSWITHCODE.COM***):
    This dataset includes 12,417 images of parking lots as well as 695,899 segmented images of parking spaces, which are marked as filled or unfilled. It is useful in parking space classification tasks because it was captured under different weather conditions in Brazil. Papercitation.  
   
-* CNRPark-EXT Dataset(***CNRPARK.IT***)
+* CNRPark-EXT Dataset(***CNRPARK.IT***):
   This dataset has around 150,00 visually occupancy marked images captured from different weather conditions for variety. 
 
-* CARPK Dataset(***DATASETS.ACTIVELOOP.AI***)
+* CARPK Dataset(***DATASETS.ACTIVELOOP.AI***):
   Contains images from drone surveillance over parking lots containing approximately 90,000 vehicles images with annotations. It is useful in tasks such as vehicle counting and detection. 
 
-* Parking Space Detection Dataset(***KAGGLE.COM***)
+* Parking Space Detection Dataset(***KAGGLE.COM***):
   Available on Kaggle, this dataset comes with images of parking spaces as well as their respective bounding box annotations. Useful in both detection and classification problems. 
 
 
